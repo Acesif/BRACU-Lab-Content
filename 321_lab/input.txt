@@ -1,0 +1,7 @@
+Quantity Of Paratha: 25
+Unit Price: 10
+Quantity Of Vegetable: 5
+Unit Price: 20
+Quantity Of Mineral Water: 20
+Unit Price: 20
+Number of People: 6
